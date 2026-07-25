@@ -86,7 +86,7 @@ a {
 }
 
 .header__button:hover, .hero__button:hover {
-    opacity: 90%;
+    opacity: 0.9;
 }
 
 main {
@@ -115,7 +115,7 @@ main {
 .hero__title {
     font-weight: 700;
     font-size: 80px;
-    letter-spacing: -2.6;
+    letter-spacing: -2.6px;
     line-height: 77px;
     color: var(--dark);
 }
